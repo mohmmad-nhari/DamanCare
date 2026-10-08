@@ -1,4 +1,17 @@
 # DamanCare | ضمان كير
+## Live Demo
+
+🌐 Try DamanCare:
+https://damancare.onrender.com
+
+💻 GitHub Repository:
+https://github.com/mohmmad-nhari/DamanCare
+
+DamanCare is a Flask web application for managing
+device warranties, invoices, and maintenance records.
+
+This is a portfolio demonstration project.
+Please use sample data only.
 
 A lightweight Arabic RTL warranty and maintenance tracker built as a full-stack application portfolio project.
 
